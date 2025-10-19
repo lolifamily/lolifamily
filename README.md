@@ -10,6 +10,8 @@
 
 ## Self::status
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lolifamily&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github.com/anuraghazra/github-readme-stats)
+
 我是一个在技术上比较挑战的人，对可以解决的 warning 以及隐形 bug 零容忍，尽力追求完美的技术解决方案。
 
 对一切事物保持好奇心（~~尽管经常提出奇奇怪怪的问题~~），积极思考是否有更优的更有意思的解决方案，并在合适时机尝试自己解决。

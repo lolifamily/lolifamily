@@ -30,7 +30,7 @@ jobs:
           card: stats
           options: username=${{ github.repository_owner }}&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true
           path: stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.PAT }}
 
       - name: Commit cards
         run: |
